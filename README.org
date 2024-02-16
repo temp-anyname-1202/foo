@@ -1,0 +1,4 @@
+* This is an org document
+foo
+bar
+q
